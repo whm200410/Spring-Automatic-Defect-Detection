@@ -23,3 +23,6 @@ it did the following step
  3.11) find contour of the Hysteresis image to check defects
  3.12) filter contour which contains large tham certain pixcels size
  3.13) get all the image.
+
+
+please note that I just upload the algorithem code, I didn't upload other project source code. so expecting the code can't compile OK, but you can clearly get the logical.
