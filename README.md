@@ -2,6 +2,8 @@
 this algorithm is used to identify all the defects of a tray which contains maximum 30 individual spring.
 the image is captured using xray machine, there may have scratchs inside spring or the spring may miss corners.
 
+th.png contains the raw image need to process, you can see scratchs or missing corner in certain spring
+
 this algorithm uses opencv as image processing library to process it.
 it did the following step
 
