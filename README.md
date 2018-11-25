@@ -2,7 +2,7 @@
 this algorithm is used to identify all the defects of a tray which contains maximum 30 individual spring.
 the image is captured using xray machine, there may have scratchs inside spring or the spring may miss corners.
 
-th.png contains the raw image need to process, you can see scratchs or missing corner in certain spring
+xray_tray.png contains the raw image need to process, you can see scratchs or missing corner in certain spring
 
 this algorithm uses opencv as image processing library to process it.
 it did the following step
@@ -37,7 +37,7 @@ it did the following step
 
   3.12) filter contour which contains large tham certain pixcels size
 
-  3.13) get all the image.
+  3.13) from the coutour, find defect
 
 
-please note that I just upload the algorithem code, I didn't upload other project source code. so expecting the code can't compile OK, but you can clearly get the logical.
+please note that I just upload the algorithem code,  so expecting the code can't compile OK, but you can clearly get the logical.
